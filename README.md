@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bsengrat
 - 👀 I'm currently open to jobs as a developer. 
 - 🌱 I’m currently learning THREE.js/webgl, AWS.
--       Working towards getting my Cloud pract and Dev cert for for AWS.
+-       Working towards getting my AWS Cloud pract and Dev certificates.
 - 💞️ I’m looking to collaborate on all sorts of projects. The more I have a chance to collaborate the better I will become.
 - 📫 How to reach me
     Email: Bsengrath@gmail.com
